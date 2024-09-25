@@ -1,5 +1,9 @@
+# filename: .gitignore
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,python,java
+
+# 임시폴더
+temp/
 
 ### Java ###
 # Compiled class file
